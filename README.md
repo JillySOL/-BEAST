@@ -22,6 +22,9 @@ DropBeast becomes community ran;
 - Mechanism: Users stake $BEAST → Vote on integrations → Tokens burn → Product Value Accrues  
 - Result: Token & Product Capture Value  
 - Think "Decentralised Marketplace for Liquidity Opportunities" rather than "Airdrop Tool"
+
+## Token Economy
+![Token Economy](https://raw.githubusercontent.com/JillySOL/DropBeast/main/Group%2043.png)
   
   ### The First Community-Aligned Automation Platform
 </div>
