@@ -106,9 +106,13 @@ The $BEAST Token democratizes access to the DropBeast Platform. Users stake lock
 
 DropBeast will remove friction for scaling access across numerous protocols, saving time while maximising value. 
 
-### 2. Provide Value Through Community Alignment
+### 2. Provide Value Through Community Alignment / Open Source
 
 Proposals & Votes will take place to assist in providing direction to the development team to build out the necessary integrations & technology. 
+
+There's two options here; 
+1. Open Source the product and allow any community developer to submit for a bounty, with a designated internal or external developer who will approve said submission.
+2. Do not open source, and have the DropBeast team nominate a developer for each proposal that is passed.
 
 The objective is for all those committed to DropBeast to work towards to maximize the value of the platform.
 
